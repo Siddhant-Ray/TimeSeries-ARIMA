@@ -6,6 +6,7 @@ Due to a compatibility issue with current version of statsmodels, the scipy modu
 $ pip3 uninstall statsmodels <br>
 $ pip3 install statsmodels==0.10.0rc2 --pre --user
 
+If python3 is your default python, you can alias pip3 to pip.
 
 Installation instructions for Jupyter:
 
